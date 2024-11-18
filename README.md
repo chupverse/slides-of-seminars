@@ -1,7 +1,7 @@
 Seminars of data science at Poitiers University Hospital
 ================
 
-## 2024.01.09 - - Données de comptage avec excès de zéro
+## 2024.01.09 - Données de comptage avec excès de zéro
 
 * Orateur :  Camille Alleyrat (plateforme de méthodologie et statistique du CHU de Poitiers).
 
@@ -9,7 +9,7 @@ Seminars of data science at Poitiers University Hospital
 
 * Lien vers la présentation : [click here](www.google.com)
 
-## 2024.11.05 - - Mélange de modèles et la librairie FLEXMIX
+## 2024.11.05 - Mélange de modèles et la librairie FLEXMIX
 
 * Orateur :  Amine Ounajime.
 
