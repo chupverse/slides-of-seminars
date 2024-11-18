@@ -1,12 +1,6 @@
 Seminars of data science at Poitiers University Hospital
 ================
 
-## 09/01/2024 - Données de comptage avec excès de zéro
-
-* Orateur :  Camille Alleyrat (plateforme de méthodologie et statistique - CHU de Poitiers).
-
-* Résumé : Un modèle avec excès de zéros est un modèle statistique adopté lorsque le critère de jugement étudié est distribué  avec excès de zéro. Le nombre de jour sans ventilation (ventilator free-days) est un exemple illustratif en soins critiques.
-
 * Lien vers la présentation : [click here](./presentations/CamilleZERO.pdf)
 
 ## 05/11/2024 - Mélange de modèles et la librairie FLEXMIX
@@ -24,3 +18,19 @@ Seminars of data science at Poitiers University Hospital
 * Résumé : Ajuster sur les facteurs proniostiques est une méthode conseillé par les agances du médicament. Il s'agit ici de montrer comment la G-computation peut être utilisée dans ce contexte.
 
 * Lien vers la présentation : [click here](./presentations/JoeGC.pdf)
+
+## 09/01/2024 - Données de comptage avec excès de zéro
+
+* Orateur :  Camille Alleyrat (plateforme de méthodologie et statistique - CHU de Poitiers).
+
+* Résumé : Un modèle avec excès de zéros est un modèle statistique adopté lorsque le critère de jugement étudié est distribué  avec excès de zéro. Le nombre de jour sans ventilation (ventilator free-days) est un exemple illustratif en soins critiques.
+
+* Lien vers la présentation : [click here](./presentations/CamilleZERO.pdf)
+
+## 09/01/2024 - Survie nette et cancérologie
+
+* Orateur :  Nolwenn Le Stang (Registre des cancers de Poitou-Charentes).
+
+* Résumé : La survie nette représente la probabilité de survivre si la seule cause de décès est lié à la pathologie étudiée. Elle permet par exemple d'estimer le pourcentage de personnes qui survivront à leur cancer en considérant la mortalité attendue de la population générale comme référence.
+
+* Lien vers la présentation : [click here](./presentations/SurvieNette2023.pdf)
