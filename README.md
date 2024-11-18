@@ -7,7 +7,7 @@ Seminars of data science at Poitiers University Hospital
 
 * Résumé : Un modèle avec excès de zéros est un modèle statistique adopté lorsque le critère de jugement étudié est distribué  avec excès de zéro. La nombre de jour sans ventilation (ventilator free-days) est un exemple illustratif en soins critiques.
 
-* Lien vers la présentation : [click here](./Amine.pdf)
+* Lien vers la présentation : [click here](./presentations/Amine.pdf)
 
 ## 2024.11.05 - Mélange de modèles et la librairie FLEXMIX
 
