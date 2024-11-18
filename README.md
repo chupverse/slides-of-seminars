@@ -1,4 +1,4 @@
-Seminars of data science at Poitiers University Hospital
+Séminaires "Science des données" au CHU de Poitiers
 ================
 
 * Lien vers la présentation : [click here](./presentations/CamilleZERO.pdf)
