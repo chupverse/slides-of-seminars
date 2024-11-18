@@ -1,7 +1,7 @@
 Seminars of data science at Poitiers University Hospital
 ================
 
-## 2024.01.09 - Données de comptage avec excès de zéro
+## 09/01/2024 - Données de comptage avec excès de zéro
 
 * Orateur :  Camille Alleyrat (plateforme de méthodologie et statistique - CHU de Poitiers).
 
@@ -9,7 +9,7 @@ Seminars of data science at Poitiers University Hospital
 
 * Lien vers la présentation : [click here](./presentations/CamilleZERO.pdf)
 
-## 2024.11.05 - Mélange de modèles et la librairie FLEXMIX
+## 05/11/2024 - Mélange de modèles et la librairie FLEXMIX
 
 * Orateur :  Amine Ounajime (Prismatics - CHU de Poitiers).
 
@@ -17,7 +17,7 @@ Seminars of data science at Poitiers University Hospital
 
 * Lien vers la présentation : [click here](./presentations/Amine.pdf)
 
-## 2024
+## 11/05/2024 - G-compuattion pour ajuster les analyses de données issues d'essais cliniques
 
 * Orateur :  Joe de Keizer (CIC Inserm 1402 - CHU et Université de Poitiers)
 
