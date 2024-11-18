@@ -15,7 +15,7 @@ Seminars of data science at Poitiers University Hospital
 
 * Résumé : 
 
-## Calibration plot of the model at 2 years
+## 2024
 
 * Orateur :  Joe de Keizer
 
