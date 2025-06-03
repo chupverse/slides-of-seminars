@@ -1,7 +1,13 @@
 Séminaires "Science des données" au CHU de Poitiers
 ================
 
-* Lien vers la présentation : [click here](./presentations/CamilleZERO.pdf)
+## 03/06/2025 - Développer des applications avec R Shiny
+
+* Orateur : Antoine Pelras (plateforme de méthodologie et statistique - CHU de Poitiers).
+
+* Résumé : Introduction au concept d'une application RShiny avec présentation de quelques outils de base pour l'interface utilisateur et d'un tutoriel pour publier une application RShiny.
+
+* Lien vers la présentation : [click here](./presentations/AntoineRShiny.pdf)
 
 ## 05/11/2024 - Mélange de modèles et la librairie FLEXMIX
 
