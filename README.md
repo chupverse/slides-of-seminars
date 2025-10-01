@@ -11,7 +11,7 @@ Séminaires "Science des données" au CHU de Poitiers
 
 * Lien vers la présentation : [click here](./presentations/Amine.pdf)
 
-## 11/05/2024 - G-compuattion pour ajuster les analyses de données issues d'essais cliniques
+## 11/05/2024 - G-computation pour ajuster les analyses de données issues d'essais cliniques
 
 * Orateur :  Joe de Keizer (CIC Inserm 1402 - CHU et Université de Poitiers)
 
